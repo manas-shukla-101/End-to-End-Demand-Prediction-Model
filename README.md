@@ -88,7 +88,7 @@ Perfect for supply chain professionals, data scientists, and business analysts w
 1. **Clone the repository**
    ```bash
    git clone https://github.com/manas-shukla-101/End-to-End-Demand-Prediction-Model.git
-   cd demand-forecasting
+   cd End-to-End-Demand-Prediction
    ```
 
 2. **Create a virtual environment** (recommended)
@@ -104,7 +104,7 @@ Perfect for supply chain professionals, data scientists, and business analysts w
 
 3. **Install dependencies**
    ```bash
-   pip install -r requirements_updated.txt
+   pip install -r requirements.txt
    ```
 
 ### Running the System
@@ -365,9 +365,6 @@ I welcome contributions! Here's how:
 
 This project is licensed under the **MIT License** - see [LICENSE](LICENSE) file for details.
 
-### Attribution
-Built with ❤️ by **Manas Shukla**
-
 ---
 
 ## 🔗 References & Resources
@@ -394,7 +391,7 @@ Built with ❤️ by **Manas Shukla**
 ### Getting Help
 - 🐛 [Report Issues](https://github.com/manas-shukla-101/End-to-End-Demand-Prediction-Model/issues)
 - 💬 [Start a Discussion](https://github.com/manas-shukla-101/End-to-End-Demand-Prediction-Model/discussions)
-- 📧 Contact: [Gmail](shuklamanas8928@gmail.com)
+- 📧 Contact: [G-mail](shuklamanas8928@gmail.com) 
 
 ---
 
@@ -410,8 +407,9 @@ If this project helped you, please:
 
 <div align="center">
 
-_Made with ❤️ by Manas Shukla for demand forecasting professionals_
+_Made with ❤️ by Manas Shukla_
 
 [Back to Top](#-end-to-end-demand-forecasting-system)
 
 </div>
+
